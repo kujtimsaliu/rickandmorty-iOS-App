@@ -15,4 +15,6 @@ import Foundation
     case location
     /// Endpoint to get episode info
     case episode
+    case arianusers = "arianusers"
+
 }
